@@ -7,3 +7,5 @@ Austin has become one of the fastest growing cities in the country, and is expec
 **2. Relationship between housing pricing changes and household income**
 
 **3. Relationship between housing pricing changes and population growth**
+
+**4. Who can afford to live in Austin? Who cannot? ** 
