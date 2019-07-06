@@ -16,4 +16,4 @@ This repo also contains a notebook where data was cleaned up, including:
 * converting strings to numbers 
 
 # Presentation 
-Our findings will be shared once ready. 
+Our findings are available <a href="https://docs.google.com/presentation/d/19LqHRTvUxiy5KygXgcClSnVd0f2lsNM9Gd8fnXIyTGY/edit#slide=id.g5ce8dd8535_1_62">here</a>. 
